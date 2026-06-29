@@ -1,24 +1,20 @@
 [
   {
     "market": "BİM",
+    "baslik": "4-11 Temmuz Aktüel",
+    "aciklama": "BİM haftalık aktüel katalog fırsatları",
     "kapak": "bim_katalog_yeni.png",
     "sayfalar": [
       "bim_1.jpg"
-    ],
-    "baslangic": "26 Haziran",
-    "bitis": "03 Temmuz",
-    "guncel": true,
-    "sonGuncelleme": "2026-06-28"
+    ]
   },
   {
     "market": "A101",
+    "baslik": "Haftanın Yıldızları",
+    "aciklama": "A101 haftalık aktüel katalog fırsatları",
     "kapak": "a101_katalog.jpg",
     "sayfalar": [
       "a101_1.png"
-    ],
-    "baslangic": "27 Haziran",
-    "bitis": "04 Temmuz",
-    "guncel": true,
-    "sonGuncelleme": "2026-06-28"
+    ]
   }
 ]
