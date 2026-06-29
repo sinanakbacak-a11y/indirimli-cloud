@@ -1,0 +1,18 @@
+[
+  {
+    "market": "BİM",
+    "baslik": "4-11 Temmuz Aktüel",
+    "kapak": "kataloglar/bim_katalog_yeni.png",
+    "sayfalar": [
+      "kataloglar/bim_1.jpg"
+    ]
+  },
+  {
+    "market": "A101",
+    "baslik": "Haftanın Yıldızları",
+    "kapak": "kataloglar/a101_katalog.jpg",
+    "sayfalar": [
+      "kataloglar/a101_1.png"
+    ]
+  }
+]
