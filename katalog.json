@@ -1,18 +1,24 @@
 [
   {
     "market": "BİM",
-    "baslik": "4-11 Temmuz Aktüel",
-    "kapak": "kataloglar/bim_katalog_yeni.png",
+    "kapak": "bim_katalog_yeni.png",
     "sayfalar": [
-      "kataloglar/bim_1.jpg"
-    ]
+      "bim_1.jpg"
+    ],
+    "baslangic": "26 Haziran",
+    "bitis": "03 Temmuz",
+    "guncel": true,
+    "sonGuncelleme": "2026-06-28"
   },
   {
     "market": "A101",
-    "baslik": "Haftanın Yıldızları",
-    "kapak": "kataloglar/a101_katalog.jpg",
+    "kapak": "a101_katalog.jpg",
     "sayfalar": [
-      "kataloglar/a101_1.png"
-    ]
+      "a101_1.png"
+    ],
+    "baslangic": "27 Haziran",
+    "bitis": "04 Temmuz",
+    "guncel": true,
+    "sonGuncelleme": "2026-06-28"
   }
 ]
