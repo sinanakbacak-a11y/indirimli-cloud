@@ -5,8 +5,8 @@
     "sayfalar": [
       "bim_1.jpg"
     ],
-    "baslangic": "26 Haziran",
-    "bitis": "03 Temmuz",
+ "baslangic": "2026-06-26",
+"bitis": "2026-07-03",
     "guncel": true,
     "sonGuncelleme": "2026-06-28"
   },
@@ -16,8 +16,8 @@
     "sayfalar": [
       "a101_1.png"
     ],
-    "baslangic": "30 Haziran",
-    "bitis": "07 Temmuz",
+  "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
     "guncel": true,
     "sonGuncelleme": "2026-06-30"
   },
@@ -27,8 +27,8 @@
     "sayfalar": [
       "sok_1.jpg"
     ],
-    "baslangic": "30 Haziran",
-    "bitis": "07 Temmuz",
+   "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
     "guncel": true,
     "sonGuncelleme": "2026-06-30"
   },
@@ -38,8 +38,8 @@
     "sayfalar": [
       "migros_1.jpg"
     ],
-    "baslangic": "30 Haziran",
-    "bitis": "07 Temmuz",
+   "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
     "guncel": true,
     "sonGuncelleme": "2026-06-30"
   },
@@ -49,8 +49,8 @@
     "sayfalar": [
       "carrefoursa_1.jpg"
     ],
-    "baslangic": "30 Haziran",
-    "bitis": "07 Temmuz",
+  "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
     "guncel": true,
     "sonGuncelleme": "2026-06-30"
   },
@@ -60,8 +60,8 @@
   "sayfalar": [
     "hakmar_1.jpg"
   ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
+  "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
   "guncel": true,
   "sonGuncelleme": "2026-06-30"
  },
@@ -71,8 +71,8 @@
   "sayfalar": [
     "file_1.jpg"
   ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
+ "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
   "guncel": true,
   "sonGuncelleme": "2026-06-30"
  },
@@ -82,8 +82,8 @@
   "sayfalar": [
     "mopas_1.jpg"
   ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
+ "baslangic": "2026-06-30",
+"bitis": "2026-07-07",
   "guncel": true,
   "sonGuncelleme": "2026-06-30"
 }
