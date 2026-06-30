@@ -64,5 +64,16 @@
   "bitis": "07 Temmuz",
   "guncel": true,
   "sonGuncelleme": "2026-06-30"
+ },
+  {
+  "market": "File",
+  "kapak": "file_katalog.jpg",
+  "sayfalar": [
+    "file_1.jpg"
+  ],
+  "baslangic": "30 Haziran",
+  "bitis": "07 Temmuz",
+  "guncel": true,
+  "sonGuncelleme": "2026-06-30"
 }
 ]
