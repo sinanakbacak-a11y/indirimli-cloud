@@ -22,36 +22,36 @@
     "sonGuncelleme": "2026-06-30"
   },
   {
-  "market": "ŞOK",
-  "kapak": "sok_katalog.jpg",
-  "sayfalar": [
-    "sok_1.jpg"
-  ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
-  "guncel": true,
-  "sonGuncelleme": "2026-06-30"
-},
+    "market": "ŞOK",
+    "kapak": "sok_katalog.jpg",
+    "sayfalar": [
+      "sok_1.jpg"
+    ],
+    "baslangic": "30 Haziran",
+    "bitis": "07 Temmuz",
+    "guncel": true,
+    "sonGuncelleme": "2026-06-30"
+  },
   {
-  "market": "Migros",
-  "kapak": "migros_katalog.jpg",
-  "sayfalar": [
-    "migros_1.jpg"
-  ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
-  "guncel": true,
-  "sonGuncelleme": "2026-06-30"
-},
+    "market": "Migros",
+    "kapak": "migros_katalog.jpg",
+    "sayfalar": [
+      "migros_1.jpg"
+    ],
+    "baslangic": "30 Haziran",
+    "bitis": "07 Temmuz",
+    "guncel": true,
+    "sonGuncelleme": "2026-06-30"
+  },
   {
-  "market": "CarrefourSA",
-  "kapak": "carrefoursa_katalog.jpg",
-  "sayfalar": [
-    "carrefoursa_1.jpg"
-  ],
-  "baslangic": "30 Haziran",
-  "bitis": "07 Temmuz",
-  "guncel": true,
-  "sonGuncelleme": "2026-06-30"
-}
+    "market": "CarrefourSA",
+    "kapak": "carrefoursa_katalog.jpg",
+    "sayfalar": [
+      "carrefoursa_1.jpg"
+    ],
+    "baslangic": "30 Haziran",
+    "bitis": "07 Temmuz",
+    "guncel": true,
+    "sonGuncelleme": "2026-06-30"
+  }
 ]
