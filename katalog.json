@@ -75,5 +75,16 @@
   "bitis": "07 Temmuz",
   "guncel": true,
   "sonGuncelleme": "2026-06-30"
+ },
+  {
+  "market": "Mopaş",
+  "kapak": "mopas_katalog.jpg",
+  "sayfalar": [
+    "mopas_1.jpg"
+  ],
+  "baslangic": "30 Haziran",
+  "bitis": "07 Temmuz",
+  "guncel": true,
+  "sonGuncelleme": "2026-06-30"
 }
 ]
