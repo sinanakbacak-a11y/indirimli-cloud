@@ -13,15 +13,15 @@
     "guncel": true,
     "sonGuncelleme": "2026-06-28"
   },
-  {
-    "market": "A101",
-    "kapak": "a101_katalog.jpg",
-    "sayfalar": [
-      "a101_1.png"
-    ],
-    "baslangic": "27 Haziran",
-    "bitis": "04 Temmuz",
-    "guncel": true,
-    "sonGuncelleme": "2026-06-28"
-  }
+{
+  "market": "A101",
+  "kapak": "kataloglar/a101/kapak.png",
+  "sayfalar": [
+    "kataloglar/a101/sayfa1.png"
+  ],
+  "baslangic": "30 Haziran",
+  "bitis": "07 Temmuz",
+  "guncel": true,
+  "sonGuncelleme": "2026-06-30"
+}
 ]
