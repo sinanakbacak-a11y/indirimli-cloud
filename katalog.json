@@ -1,9 +1,13 @@
-"sayfalar": [
-  "kataloglar/bim/sayfa1.jpg",
-  "kataloglar/bim/sayfa2.jpg",
-  "kataloglar/bim/sayfa3.jpg",
-  "kataloglar/bim/sayfa4.jpg"
-],
+[
+  {
+    "market": "BİM",
+    "kapak": "kataloglar/bim/kapak.png",
+    "sayfalar": [
+      "kataloglar/bim/sayfa1.jpg",
+      "kataloglar/bim/sayfa2.jpg",
+      "kataloglar/bim/sayfa3.jpg",
+      "kataloglar/bim/sayfa4.jpg"
+    ],
     "baslangic": "26 Haziran",
     "bitis": "03 Temmuz",
     "guncel": true,
