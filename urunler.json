@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-04",
+  "urunler": [
+    {
+      "ad": "Dost Süt 1L",
+      "market": "BİM",
+      "kategori": "Süt",
+      "fiyat": 28.50,
+      "mesafe": 320,
+      "indirimli": true
+    },
+    {
+      "ad": "İçim Süt 1L",
+      "market": "A101",
+      "kategori": "Süt",
+      "fiyat": 29.90,
+      "mesafe": 780,
+      "indirimli": false
+    },
+    {
+      "ad": "Pınar Süt 1L",
+      "market": "ŞOK",
+      "kategori": "Süt",
+      "fiyat": 34.90,
+      "mesafe": 150,
+      "indirimli": false
+    }
+  ]
+}
