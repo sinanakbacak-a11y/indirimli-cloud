@@ -1,5 +1,19 @@
 {
   "version": 1,
   "sonGuncelleme": "2026-07-06",
-  "marketler": []
+  "marketler": [
+    {
+      "ad": "ÞOK",
+      "sube": "Armaðanevler Þubesi",
+      "adres": "Armaðanevler Mah. Tuðba Sok. 15/A, Ümraniye",
+      "enlem": 41.0685,
+      "boylam": 29.0815,
+      "renk": "orange",
+      "varsayilan": "150 m",
+      "telefon": "",
+      "web": "https://www.sokmarket.com.tr",
+      "calisma": "09:00 - 22:00",
+      "dogrulandi": true
+    }
+  ]
 }
