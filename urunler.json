@@ -2,21 +2,23 @@
   "version": 2,
   "sonGuncelleme": "2026-07-05",
   "urunler": [
-    {
-      "ad": "Dost Süt 1L",
-      "market": "BİM",
-      "kategori": "Süt",
-      "fiyat": 28.50,
-      "mesafe": 320,
-      "indirimli": true
-    },
+   {
+  "ad": "Dost Süt 1L",
+  "market": "BİM",
+  "kategori": "Süt",
+  "fiyat": 28.50,
+  "mesafe": 320,
+  "indirimli": true,
+  "resim": "sut.png"
+},
     {
       "ad": "İçim Süt 1L",
       "market": "A101",
       "kategori": "Süt",
       "fiyat": 29.90,
       "mesafe": 780,
-      "indirimli": false
+      "indirimli": false,
+      "resim": "sut.png"
     },
     {
       "ad": "Pınar Süt 1L",
@@ -24,7 +26,8 @@
       "kategori": "Süt",
       "fiyat": 34.90,
       "mesafe": 150,
-      "indirimli": false
+      "indirimli": false,
+      "resim": "sut.png"
     },
     {
       "ad": "Yudum Ayçiçek Yağı 2L",
@@ -32,7 +35,8 @@
       "kategori": "Yağ",
       "fiyat": 189.90,
       "mesafe": 900,
-      "indirimli": true
+      "indirimli": true,
+      "resim": "yag.png"
     },
     {
       "ad": "Biryağ Ayçiçek Yağı 2L",
@@ -40,7 +44,8 @@
       "kategori": "Yağ",
       "fiyat": 194.90,
       "mesafe": 1400,
-      "indirimli": false
+      "indirimli": false,
+     "resim": "yag.png"
     },
     {
       "ad": "Filiz Makarna 500g",
@@ -48,7 +53,8 @@
       "kategori": "Makarna",
       "fiyat": 24.90,
       "mesafe": 320,
-      "indirimli": true
+      "indirimli": true,
+      "resim": "makarna.png"
     },
     {
       "ad": "Mutlu Makarna 500g",
@@ -56,7 +62,8 @@
       "kategori": "Makarna",
       "fiyat": 26.50,
       "mesafe": 780,
-      "indirimli": false
+      "indirimli": false,
+    "resim": "makarna.png"
     },
     {
       "ad": "Osmancık Pirinç 1kg",
@@ -64,7 +71,8 @@
       "kategori": "Pirinç",
       "fiyat": 74.90,
       "mesafe": 150,
-      "indirimli": true
+      "indirimli": true,
+     "resim": "pirinc.png"
     },
     {
       "ad": "Baldo Pirinç 1kg",
@@ -72,7 +80,8 @@
       "kategori": "Pirinç",
       "fiyat": 89.90,
       "mesafe": 900,
-      "indirimli": false
+      "indirimli": false,
+    "resim": "pirinc.png"
     },
     {
       "ad": "Kırmızı Mercimek 1kg",
@@ -80,7 +89,8 @@
       "kategori": "Bakliyat",
       "fiyat": 59.90,
       "mesafe": 1800,
-      "indirimli": true
+      "indirimli": true,
+     "resim": "mercimek.png"
     }
   ]
 }
