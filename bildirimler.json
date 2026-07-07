@@ -7,6 +7,16 @@
       "baslik": "Yeni BİM kataloğu",
       "mesaj": "Bu haftanın yeni BİM fırsatları yayında.",
       "market": "BİM",
+      "sube": "",
+      "aktif": true
+    },
+    {
+      "id": 2,
+      "tip": "favori_sube",
+      "baslik": "Favori şubende yeni fırsat var",
+      "mesaj": "Kazım Karabekir Şubesi için yeni indirimler yayında.",
+      "market": "A101",
+      "sube": "Kazım Karabekir Şubesi",
       "aktif": true
     }
   ]
