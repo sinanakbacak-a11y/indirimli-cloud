@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "bildirimler": [
+    {
+      "id": 1,
+      "tip": "katalog",
+      "baslik": "Yeni BİM kataloğu",
+      "mesaj": "Bu haftanın yeni BİM fırsatları yayında.",
+      "market": "BİM",
+      "aktif": true
+    }
+  ]
+}
