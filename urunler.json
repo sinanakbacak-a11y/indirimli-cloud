@@ -1,34 +1,33 @@
 {
-  "version": 2,
-  "sonGuncelleme": "2026-07-05",
-  "urunler": [
-   {
   "ad": "Dost Süt 1L",
   "market": "BİM",
   "kategori": "Süt",
+  "karsilastirmaAnahtari": "sut_1l",
   "fiyat": 28.50,
   "mesafe": 320,
   "indirimli": true,
   "resim": "sut.png"
 },
-    {
-      "ad": "İçim Süt 1L",
-      "market": "A101",
-      "kategori": "Süt",
-      "fiyat": 29.90,
-      "mesafe": 780,
-      "indirimli": false,
-      "resim": "sut.png"
-    },
-    {
-      "ad": "Pınar Süt 1L",
-      "market": "ŞOK",
-      "kategori": "Süt",
-      "fiyat": 34.90,
-      "mesafe": 150,
-      "indirimli": false,
-      "resim": "sut.png"
-    },
+{
+  "ad": "İçim Süt 1L",
+  "market": "A101",
+  "kategori": "Süt",
+  "karsilastirmaAnahtari": "sut_1l",
+  "fiyat": 29.90,
+  "mesafe": 780,
+  "indirimli": false,
+  "resim": "sut.png"
+},
+{
+  "ad": "Pınar Süt 1L",
+  "market": "ŞOK",
+  "kategori": "Süt",
+  "karsilastirmaAnahtari": "sut_1l",
+  "fiyat": 34.90,
+  "mesafe": 150,
+  "indirimli": false,
+  "resim": "sut.png"
+}
     {
       "ad": "Yudum Ayçiçek Yağı 2L",
       "market": "Migros",
