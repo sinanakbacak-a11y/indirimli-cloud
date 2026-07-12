@@ -52,41 +52,41 @@
   "indirimli": false,
   "resim": "yag.png"
 },
-    {
-      "ad": "Filiz Makarna 500g",
-      "market": "BİM",
-      "kategori": "Makarna",
-      "karsilastirmaAnahtari": "makarna_500g"
-      "fiyat": 24.90,
-      "mesafe": 320,
-      "indirimli": true,
-      "resim": "makarna.png"
-    },
-    {
-      "ad": "Mutlu Makarna 500g",
-      "market": "A101",
-      "kategori": "Makarna",
-      "karsilastirmaAnahtari": "makarna_500g"
-      "fiyat": 26.50,
-      "mesafe": 780,
-      "indirimli": false,
-    "resim": "makarna.png"
-    },
-    {
-      "ad": "Osmancık Pirinç 1kg",
-      "market": "ŞOK",
-      "kategori": "Pirinç",
-      "karsilastirmaAnahtari": "pirinc_1kg"
-      "fiyat": 74.90,
-      "mesafe": 150,
-      "indirimli": true,
-     "resim": "pirinc.png"
-    },
+   {
+  "ad": "Filiz Makarna 500g",
+  "market": "BİM",
+  "kategori": "Makarna",
+  "karsilastirmaAnahtari": "makarna_500g",
+  "fiyat": 24.90,
+  "mesafe": 320,
+  "indirimli": true,
+  "resim": "makarna.png"
+},
+   {
+  "ad": "Mutlu Makarna 500g",
+  "market": "A101",
+  "kategori": "Makarna",
+  "karsilastirmaAnahtari": "makarna_500g",
+  "fiyat": 26.50,
+  "mesafe": 780,
+  "indirimli": false,
+  "resim": "makarna.png"
+},
+   {
+  "ad": "Osmancık Pirinç 1kg",
+  "market": "ŞOK",
+  "kategori": "Pirinç",
+  "karsilastirmaAnahtari": "pirinc_1kg",
+  "fiyat": 74.90,
+  "mesafe": 150,
+  "indirimli": true,
+  "resim": "pirinc.png"
+},
     {
       "ad": "Baldo Pirinç 1kg",
       "market": "Migros",
       "kategori": "Pirinç",
-      "karsilastirmaAnahtari": "pirinc_1kg"
+      "karsilastirmaAnahtari": "pirinc_1kg",
       "fiyat": 89.90,
       "mesafe": 900,
       "indirimli": false,
@@ -96,7 +96,7 @@
       "ad": "Kırmızı Mercimek 1kg",
       "market": "Hakmar",
       "kategori": "Bakliyat",
-      "karsilastirmaAnahtari": "mercimek_1kg"
+      "karsilastirmaAnahtari": "mercimek_1kg",
       "fiyat": 59.90,
       "mesafe": 1800,
       "indirimli": true,
