@@ -32,15 +32,16 @@
   "indirimli": false,
   "resim": "sut.png"
 },
-    {
-      "ad": "Yudum Ayçiçek Yağı 2L",
-      "market": "Migros",
-      "kategori": "Yağ",
-      "fiyat": 189.90,
-      "mesafe": 900,
-      "indirimli": true,
-      "resim": "yag.png"
-    },
+   {
+  "ad": "Yudum Ayçiçek Yağı 2L",
+  "market": "Migros",
+  "kategori": "Yağ",
+  "karsilastirmaAnahtari": "yag_2l",
+  "fiyat": 189.90,
+  "mesafe": 900,
+  "indirimli": true,
+  "resim": "yag.png"
+},
     {
       "ad": "Biryağ Ayçiçek Yağı 2L",
       "market": "CarrefourSA",
