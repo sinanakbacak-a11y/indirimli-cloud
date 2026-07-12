@@ -42,16 +42,16 @@
   "indirimli": true,
   "resim": "yag.png"
 },
-    {
-      "ad": "Biryağ Ayçiçek Yağı 2L",
-      "market": "CarrefourSA",
-      "kategori": "Yağ",
-      "karsilastirmaAnahtari": "yag_2l"
-      "fiyat": 194.90,
-      "mesafe": 1400,
-      "indirimli": false,
-     "resim": "yag.png"
-    },
+   {
+  "ad": "Biryağ Ayçiçek Yağı 2L",
+  "market": "CarrefourSA",
+  "kategori": "Yağ",
+  "karsilastirmaAnahtari": "yag_2l",
+  "fiyat": 194.90,
+  "mesafe": 1400,
+  "indirimli": false,
+  "resim": "yag.png"
+},
     {
       "ad": "Filiz Makarna 500g",
       "market": "BİM",
