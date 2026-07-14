@@ -1,8 +1,11 @@
+```json
 {
-  "version": 3,
+  "version": 4,
   "sonGuncelleme": "2026-07-12",
   "urunler": [
     {
+      "id": "bim_dost_sut_1l",
+      "karsilastirmaId": "sut_1l",
       "ad": "Dost Süt 1L",
       "market": "BİM",
       "kategori": "Süt",
@@ -19,6 +22,8 @@
       "marka": "Dost"
     },
     {
+      "id": "a101_icim_sut_1l",
+      "karsilastirmaId": "sut_1l",
       "ad": "İçim Süt 1L",
       "market": "A101",
       "kategori": "Süt",
@@ -35,6 +40,8 @@
       "marka": "İçim"
     },
     {
+      "id": "sok_pinar_sut_1l",
+      "karsilastirmaId": "sut_1l",
       "ad": "Pınar Süt 1L",
       "market": "ŞOK",
       "kategori": "Süt",
@@ -51,6 +58,8 @@
       "marka": "Pınar"
     },
     {
+      "id": "migros_yudum_aycicek_yagi_2l",
+      "karsilastirmaId": "aycicek_yagi_2l",
       "ad": "Yudum Ayçiçek Yağı 2L",
       "market": "Migros",
       "kategori": "Yağ",
@@ -67,6 +76,8 @@
       "marka": "Yudum"
     },
     {
+      "id": "carrefoursa_biryag_aycicek_yagi_2l",
+      "karsilastirmaId": "aycicek_yagi_2l",
       "ad": "Biryağ Ayçiçek Yağı 2L",
       "market": "CarrefourSA",
       "kategori": "Yağ",
@@ -83,6 +94,8 @@
       "marka": "Biryağ"
     },
     {
+      "id": "bim_filiz_makarna_500g",
+      "karsilastirmaId": "makarna_500g",
       "ad": "Filiz Makarna 500g",
       "market": "BİM",
       "kategori": "Makarna",
@@ -99,6 +112,8 @@
       "marka": "Filiz"
     },
     {
+      "id": "a101_mutlu_makarna_500g",
+      "karsilastirmaId": "makarna_500g",
       "ad": "Mutlu Makarna 500g",
       "market": "A101",
       "kategori": "Makarna",
@@ -115,6 +130,8 @@
       "marka": "Mutlu"
     },
     {
+      "id": "sok_osmancik_pirinc_1kg",
+      "karsilastirmaId": "pirinc_1kg",
       "ad": "Osmancık Pirinç 1kg",
       "market": "ŞOK",
       "kategori": "Pirinç",
@@ -131,6 +148,8 @@
       "marka": ""
     },
     {
+      "id": "migros_baldo_pirinc_1kg",
+      "karsilastirmaId": "pirinc_1kg",
       "ad": "Baldo Pirinç 1kg",
       "market": "Migros",
       "kategori": "Pirinç",
@@ -147,6 +166,8 @@
       "marka": ""
     },
     {
+      "id": "hakmar_kirmizi_mercimek_1kg",
+      "karsilastirmaId": "kirmizi_mercimek_1kg",
       "ad": "Kırmızı Mercimek 1kg",
       "market": "Hakmar",
       "kategori": "Bakliyat",
@@ -164,3 +185,4 @@
     }
   ]
 }
+```
