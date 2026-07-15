@@ -1,6 +1,11 @@
+
 {
+  "version": 2,
+  "sonGuncelleme": "2026-07-15",
   "marketler": [
     {
+      "marketId": "bim",
+      "subeId": "bim_umraniye_001",
       "ad": "BİM",
       "sube": "Ümraniye Şubesi",
       "adres": "Ümraniye / İstanbul",
@@ -9,6 +14,8 @@
       "varsayilan": "320 m"
     },
     {
+      "marketId": "a101",
+      "subeId": "a101_kazimkarabekir_001",
       "ad": "A101",
       "sube": "Kazım Karabekir Şubesi",
       "adres": "Ümraniye / İstanbul",
@@ -17,6 +24,8 @@
       "varsayilan": "450 m"
     },
     {
+      "marketId": "sok",
+      "subeId": "sok_armaganevler_001",
       "ad": "ŞOK",
       "sube": "Armağanevler Şubesi",
       "adres": "Ümraniye / İstanbul",
