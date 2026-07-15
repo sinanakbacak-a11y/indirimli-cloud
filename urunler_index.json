@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-15",
+  "anaDosya": "urunler.json",
+  "kategoriDosyalariAktif": false,
+  "kategoriler": [
+    {
+      "kategoriId": "sut",
+      "ad": "Süt",
+      "dosya": "urunler/sut.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "yag",
+      "ad": "Yağ",
+      "dosya": "urunler/yag.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "makarna",
+      "ad": "Makarna",
+      "dosya": "urunler/makarna.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "pirinc",
+      "ad": "Pirinç",
+      "dosya": "urunler/pirinc.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "bakliyat",
+      "ad": "Bakliyat",
+      "dosya": "urunler/bakliyat.json",
+      "aktif": true
+    }
+  ]
+}
