@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-16",
+  "kategoriId": "sut",
+  "urunler": [
+    {
+      "id": "bim_dost_sut_1l",
+      "karsilastirmaId": "sut_1l",
+      "ad": "Dost Süt 1L",
+      "market": "BİM",
+      "kategori": "Süt",
+      "karsilastirmaAnahtari": "sut_1l",
+      "fiyat": 28.50,
+      "mesafe": 320,
+      "indirimli": true,
+      "resim": "sut.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 L",
+      "marka": "Dost"
+    },
+    {
+      "id": "a101_icim_sut_1l",
+      "karsilastirmaId": "sut_1l",
+      "ad": "İçim Süt 1L",
+      "market": "A101",
+      "kategori": "Süt",
+      "karsilastirmaAnahtari": "sut_1l",
+      "fiyat": 29.90,
+      "mesafe": 780,
+      "indirimli": false,
+      "resim": "sut.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 L",
+      "marka": "İçim"
+    },
+    {
+      "id": "sok_pinar_sut_1l",
+      "karsilastirmaId": "sut_1l",
+      "ad": "Pınar Süt 1L",
+      "market": "ŞOK",
+      "kategori": "Süt",
+      "karsilastirmaAnahtari": "sut_1l",
+      "fiyat": 34.90,
+      "mesafe": 150,
+      "indirimli": false,
+      "resim": "sut.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 L",
+      "marka": "Pınar"
+    }
+  ]
+}
