@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-16",
+  "kategoriId": "pirinc",
+  "urunler": [
+    {
+      "id": "sok_osmancik_pirinc_1kg",
+      "karsilastirmaId": "pirinc_1kg",
+      "ad": "Osmancık Pirinç 1kg",
+      "market": "ŞOK",
+      "kategori": "Pirinç",
+      "karsilastirmaAnahtari": "pirinc_1kg",
+      "fiyat": 74.90,
+      "mesafe": 150,
+      "indirimli": true,
+      "resim": "pirinc.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 kg",
+      "marka": ""
+    },
+    {
+      "id": "migros_baldo_pirinc_1kg",
+      "karsilastirmaId": "pirinc_1kg",
+      "ad": "Baldo Pirinç 1kg",
+      "market": "Migros",
+      "kategori": "Pirinç",
+      "karsilastirmaAnahtari": "pirinc_1kg",
+      "fiyat": 89.90,
+      "mesafe": 900,
+      "indirimli": false,
+      "resim": "pirinc.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 kg",
+      "marka": ""
+    }
+  ]
+}
