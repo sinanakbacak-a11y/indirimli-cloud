@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-16",
+  "kategoriId": "bakliyat",
+  "urunler": [
+    {
+      "id": "hakmar_kirmizi_mercimek_1kg",
+      "karsilastirmaId": "kirmizi_mercimek_1kg",
+      "ad": "Kırmızı Mercimek 1kg",
+      "market": "Hakmar",
+      "kategori": "Bakliyat",
+      "karsilastirmaAnahtari": "mercimek_1kg",
+      "fiyat": 59.90,
+      "mesafe": 1800,
+      "indirimli": true,
+      "resim": "mercimek.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "1 kg",
+      "marka": ""
+    }
+  ]
+}
