@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sonGuncelleme": "2026-07-16",
   "kategoriId": "sut",
   "urunler": [
@@ -16,10 +16,14 @@
       "resim": "sut.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "1 L",
-      "marka": "Dost"
+      "marka": "Dost",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     },
     {
       "id": "a101_icim_sut_1l",
@@ -34,10 +38,14 @@
       "resim": "sut.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "1 L",
-      "marka": "İçim"
+      "marka": "İçim",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     },
     {
       "id": "sok_pinar_sut_1l",
@@ -52,10 +60,14 @@
       "resim": "sut.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "1 L",
-      "marka": "Pınar"
+      "marka": "Pınar",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     }
   ]
 }
