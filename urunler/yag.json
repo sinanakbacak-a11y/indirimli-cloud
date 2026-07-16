@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-16",
+  "kategoriId": "yag",
+  "urunler": [
+    {
+      "id": "migros_yudum_aycicek_yagi_2l",
+      "karsilastirmaId": "aycicek_yagi_2l",
+      "ad": "Yudum Ayçiçek Yağı 2L",
+      "market": "Migros",
+      "kategori": "Yağ",
+      "karsilastirmaAnahtari": "yag_2l",
+      "fiyat": 189.90,
+      "mesafe": 900,
+      "indirimli": true,
+      "resim": "yag.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "2 L",
+      "marka": "Yudum"
+    },
+    {
+      "id": "carrefoursa_biryag_aycicek_yagi_2l",
+      "karsilastirmaId": "aycicek_yagi_2l",
+      "ad": "Biryağ Ayçiçek Yağı 2L",
+      "market": "CarrefourSA",
+      "kategori": "Yağ",
+      "karsilastirmaAnahtari": "yag_2l",
+      "fiyat": 194.90,
+      "mesafe": 1400,
+      "indirimli": false,
+      "resim": "yag.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-12",
+      "barkod": "",
+      "birim": "2 L",
+      "marka": "Biryağ"
+    }
+  ]
+}
