@@ -56,6 +56,17 @@
 "boylam": 29.0900,
 "varsayilan": "1.4 km",
 "veriDurumu": "test"
-}
+},
+      {
+      "marketId": "hakmar",
+      "subeId": "hakmar_umraniye_test_001",
+      "ad": "Hakmar",
+      "sube": "Ümraniye Test Şubesi",
+      "adres": "Ümraniye / İstanbul - Test verisi",
+      "enlem": 41.0710,
+      "boylam": 29.0870,
+      "varsayilan": "1.8 km",
+      "veriDurumu": "test"
+    },
 ]
 }
