@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sonGuncelleme": "2026-07-16",
   "kategoriId": "makarna",
   "urunler": [
@@ -16,10 +16,14 @@
       "resim": "makarna.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "500 g",
-      "marka": "Filiz"
+      "marka": "Filiz",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     },
     {
       "id": "a101_mutlu_makarna_500g",
@@ -34,10 +38,14 @@
       "resim": "makarna.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "500 g",
-      "marka": "Mutlu"
+      "marka": "Mutlu",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     }
   ]
 }
