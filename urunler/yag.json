@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sonGuncelleme": "2026-07-16",
   "kategoriId": "yag",
   "urunler": [
@@ -16,10 +16,14 @@
       "resim": "yag.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "2 L",
-      "marka": "Yudum"
+      "marka": "Yudum",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     },
     {
       "id": "carrefoursa_biryag_aycicek_yagi_2l",
@@ -34,10 +38,14 @@
       "resim": "yag.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "2 L",
-      "marka": "Biryağ"
+      "marka": "Biryağ",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     }
   ]
 }
