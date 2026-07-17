@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sonGuncelleme": "2026-07-16",
   "kategoriId": "bakliyat",
   "urunler": [
@@ -16,10 +16,14 @@
       "resim": "mercimek.png",
       "stok": true,
       "kampanya": "",
-      "sonGuncelleme": "2026-07-12",
+      "sonGuncelleme": "2026-07-16T22:30:00",
       "barkod": "",
       "birim": "1 kg",
-      "marka": ""
+      "marka": "",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
     }
   ]
 }
