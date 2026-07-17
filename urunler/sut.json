@@ -25,6 +25,29 @@
       "kaynak": "manuel_test",
       "kaynakUrl": ""
     },
+    
+    {
+      "id": "bim_dost_sut_1l",
+      "karsilastirmaId": "sut_1l",
+      "ad": "Dost Süt 1L",
+      "market": "BİM",
+      "kategori": "Süt",
+      "karsilastirmaAnahtari": "sut_1l",
+      "fiyat": 28.50,
+      "mesafe": 320,
+      "indirimli": true,
+      "resim": "sut.png",
+      "stok": true,
+      "kampanya": "",
+      "sonGuncelleme": "2026-07-16T22:30:00",
+      "barkod": "",
+      "birim": "1 L",
+      "marka": "Dost",
+      "fiyatBaslangic": "2026-07-16",
+      "fiyatBitis": "",
+      "kaynak": "manuel_test",
+      "kaynakUrl": ""
+    },
     {
       "id": "a101_icim_sut_1l",
       "karsilastirmaId": "sut_1l",
