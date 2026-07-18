@@ -1,5 +1,4 @@
-{
- "version": 5,
+{"version": 6,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -50,6 +49,12 @@
   "kategoriId": "icecek",
   "ad": "İçecek",
   "dosya": "urunler/icecek.json",
+  "aktif": true
+},
+   {
+  "kategoriId": "temizlik",
+  "ad": "Temizlik",
+  "dosya": "urunler/temizlik.json",
   "aktif": true
 }
   ]
