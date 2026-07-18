@@ -4,12 +4,12 @@
 "kategoriId": "sut",
 "urunler": [
 {
-"id": "bim_dost_sut_1l",
-"karsilastirmaId": "sut_1l",
-"ad": "Dost Süt 1L",
-"market": "BİM",
-"marketId": "bim",
-"subeId": "bim_umraniye_001",
+  "id": "bim_dost_sut_1l",
+  "karsilastirmaId": "sut_1l",
+  "ad": "Dost Süt 1L",
+  "market": "BİM",
+  "marketId": "bim",
+  "subeId": "bim_umraniye_001",
 "kategori": "Süt",
 "karsilastirmaAnahtari": "sut_1l",
 "fiyat": 28.50,
