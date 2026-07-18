@@ -1,6 +1,6 @@
 {
   "version": 4,
-"sonGuncelleme": "2026-07-18",
+  "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
   "kategoriler": [
@@ -38,6 +38,12 @@
       "kategoriId": "peynir",
       "ad": "Peynir",
       "dosya": "urunler/peynir.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "kahvaltilik",
+      "ad": "Kahvaltılık",
+      "dosya": "urunler/kahvaltilik.json",
       "aktif": true
     }
   ]
