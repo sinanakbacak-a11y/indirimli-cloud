@@ -1,5 +1,5 @@
 {
-"version": 11,
+"version": 12,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -86,6 +86,12 @@
   "kategoriId": "bebek_urunleri",
   "ad": "Bebek Ürünleri",
   "dosya": "urunler/bebek_urunleri.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "evcil_hayvan",
+  "ad": "Evcil Hayvan",
+  "dosya": "urunler/evcil_hayvan.json",
   "aktif": true
 }
   ]
