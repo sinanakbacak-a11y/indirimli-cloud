@@ -1,9 +1,9 @@
 {
-  "version": 1,
-  "sonGuncelleme": "2026-07-15",
+  "version": 2,
+  "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
-"kategoriDosyalariAktif": true,
-"kategoriler": [
+  "kategoriDosyalariAktif": true,
+  "kategoriler": [
     {
       "kategoriId": "sut",
       "ad": "Süt",
