@@ -45,6 +45,12 @@
       "ad": "Kahvaltılık",
       "dosya": "urunler/kahvaltilik.json",
       "aktif": true
-    }
+    },
+   {
+  "kategoriId": "icecek",
+  "ad": "İçecek",
+  "dosya": "urunler/icecek.json",
+  "aktif": true
+}
   ]
 }
