@@ -1,5 +1,5 @@
 {
-"version": 13,
+"version": 14,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -98,6 +98,12 @@
   "kategoriId": "dondurulmus_gida",
   "ad": "Dondurulmuş Gıda",
   "dosya": "urunler/dondurulmus_gida.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "sarkuteri",
+  "ad": "Şarküteri",
+  "dosya": "urunler/sarkuteri.json",
   "aktif": true
 }
   ]
