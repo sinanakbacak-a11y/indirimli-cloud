@@ -1,6 +1,6 @@
 {
-"version": 3,
-"sonGuncelleme": "2026-07-18",
+  "version": 3,
+  "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
   "kategoriler": [
@@ -32,6 +32,12 @@
       "kategoriId": "bakliyat",
       "ad": "Bakliyat",
       "dosya": "urunler/bakliyat.json",
+      "aktif": true
+    },
+    {
+      "kategoriId": "peynir",
+      "ad": "Peynir",
+      "dosya": "urunler/peynir.json",
       "aktif": true
     }
   ]
