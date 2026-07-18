@@ -1,5 +1,5 @@
 {
-"version": 14,
+"version": 15,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -105,6 +105,13 @@
   "ad": "Şarküteri",
   "dosya": "urunler/sarkuteri.json",
   "aktif": true
+},
+    {
+  "kategoriId": "et_tavuk",
+  "ad": "Et & Tavuk",
+  "dosya": "urunler/et_tavuk.json",
+  "aktif": true
 }
+    
   ]
 }
