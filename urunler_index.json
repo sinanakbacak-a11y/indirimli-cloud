@@ -1,5 +1,5 @@
 {
-"version": 9,
+"version": 10,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -74,6 +74,12 @@
   "kategoriId": "atistirmalik",
   "ad": "Atıştırmalık",
   "dosya": "urunler/atistirmalik.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "konserve",
+  "ad": "Konserve",
+  "dosya": "urunler/konserve.json",
   "aktif": true
 }
   ]
