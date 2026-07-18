@@ -57,12 +57,12 @@
   "ad": "Temizlik",
   "dosya": "urunler/temizlik.json",
   "aktif": true
-}
+},
     {
   "kategoriId": "kagit_urunleri",
   "ad": "Kağıt Ürünleri",
   "dosya": "urunler/kagit_urunleri.json",
   "aktif": true
-},
+}
   ]
 }
