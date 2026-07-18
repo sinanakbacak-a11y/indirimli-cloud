@@ -1,5 +1,5 @@
 {
-"version": 10,
+"version": 11,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -80,6 +80,12 @@
   "kategoriId": "konserve",
   "ad": "Konserve",
   "dosya": "urunler/konserve.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "bebek_urunleri",
+  "ad": "Bebek Ürünleri",
+  "dosya": "urunler/bebek_urunleri.json",
   "aktif": true
 }
   ]
