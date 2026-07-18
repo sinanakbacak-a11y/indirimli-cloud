@@ -1,5 +1,5 @@
 {
-"version": 12,
+"version": 13,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -92,6 +92,12 @@
   "kategoriId": "evcil_hayvan",
   "ad": "Evcil Hayvan",
   "dosya": "urunler/evcil_hayvan.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "dondurulmus_gida",
+  "ad": "Dondurulmuş Gıda",
+  "dosya": "urunler/dondurulmus_gida.json",
   "aktif": true
 }
   ]
