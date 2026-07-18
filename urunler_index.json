@@ -1,5 +1,5 @@
 {
-"version": 7,
+"version": 8,
 "sonGuncelleme": "2026-07-18",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
@@ -62,6 +62,12 @@
   "kategoriId": "kagit_urunleri",
   "ad": "Kağıt Ürünleri",
   "dosya": "urunler/kagit_urunleri.json",
+  "aktif": true
+},
+    {
+  "kategoriId": "kisisel_bakim",
+  "ad": "Kişisel Bakım",
+  "dosya": "urunler/kisisel_bakim.json",
   "aktif": true
 }
   ]
