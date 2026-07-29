@@ -1,117 +1,57 @@
 {
-"version": 15,
-"sonGuncelleme": "2026-07-18",
+  "version": 16,
+  "sonGuncelleme": "2026-07-29",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
   "kategoriler": [
     {
-      "kategoriId": "sut",
-      "ad": "Süt",
-      "dosya": "urunler/sut.json",
-      "aktif": true
+      "kategoriId": "kagit_urunleri",
+      "ad": "Kağıt Ürünleri",
+      "dosya": "urunler/kagit_urunleri.json",
+      "aktif": true,
+      "urunSayisi": 100
     },
     {
-      "kategoriId": "yag",
-      "ad": "Yağ",
-      "dosya": "urunler/yag.json",
-      "aktif": true
+      "kategoriId": "konserve",
+      "ad": "Konserve",
+      "dosya": "urunler/konserve.json",
+      "aktif": true,
+      "urunSayisi": 95
     },
     {
       "kategoriId": "makarna",
       "ad": "Makarna",
       "dosya": "urunler/makarna.json",
-      "aktif": true
-    },
-    {
-      "kategoriId": "pirinc",
-      "ad": "Pirinç",
-      "dosya": "urunler/pirinc.json",
-      "aktif": true
-    },
-    {
-      "kategoriId": "bakliyat",
-      "ad": "Bakliyat",
-      "dosya": "urunler/bakliyat.json",
-      "aktif": true
+      "aktif": true,
+      "urunSayisi": 35
     },
     {
       "kategoriId": "peynir",
       "ad": "Peynir",
       "dosya": "urunler/peynir.json",
-      "aktif": true
+      "aktif": true,
+      "urunSayisi": 30
     },
     {
-      "kategoriId": "kahvaltilik",
-      "ad": "Kahvaltılık",
-      "dosya": "urunler/kahvaltilik.json",
-      "aktif": true
+      "kategoriId": "pirinc",
+      "ad": "Pirinç",
+      "dosya": "urunler/pirinc.json",
+      "aktif": true,
+      "urunSayisi": 20
     },
-   {
-  "kategoriId": "icecek",
-  "ad": "İçecek",
-  "dosya": "urunler/icecek.json",
-  "aktif": true
-},
-   {
-  "kategoriId": "temizlik",
-  "ad": "Temizlik",
-  "dosya": "urunler/temizlik.json",
-  "aktif": true
-},
     {
-  "kategoriId": "kagit_urunleri",
-  "ad": "Kağıt Ürünleri",
-  "dosya": "urunler/kagit_urunleri.json",
-  "aktif": true
-},
+      "kategoriId": "temizlik",
+      "ad": "Temizlik",
+      "dosya": "urunler/temizlik.json",
+      "aktif": true,
+      "urunSayisi": 95
+    },
     {
-  "kategoriId": "kisisel_bakim",
-  "ad": "Kişisel Bakım",
-  "dosya": "urunler/kisisel_bakim.json",
-  "aktif": true
-},
-{
-  "kategoriId": "atistirmalik",
-  "ad": "Atıştırmalık",
-  "dosya": "urunler/atistirmalik.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "konserve",
-  "ad": "Konserve",
-  "dosya": "urunler/konserve.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "bebek_urunleri",
-  "ad": "Bebek Ürünleri",
-  "dosya": "urunler/bebek_urunleri.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "evcil_hayvan",
-  "ad": "Evcil Hayvan",
-  "dosya": "urunler/evcil_hayvan.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "dondurulmus_gida",
-  "ad": "Dondurulmuş Gıda",
-  "dosya": "urunler/dondurulmus_gida.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "sarkuteri",
-  "ad": "Şarküteri",
-  "dosya": "urunler/sarkuteri.json",
-  "aktif": true
-},
-    {
-  "kategoriId": "et_tavuk",
-  "ad": "Et & Tavuk",
-  "dosya": "urunler/et_tavuk.json",
-  "aktif": true
-}
-    
+      "kategoriId": "yag",
+      "ad": "Yağ",
+      "dosya": "urunler/yag.json",
+      "aktif": true,
+      "urunSayisi": 25
+    }
   ]
 }
