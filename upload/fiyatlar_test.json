@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "sonGuncelleme": "2026-07-31",
+  "veriTipi": "panel_dogrulanmis_fiyatlar",
+  "toplamFiyatKaydi": 1,
+  "fiyatlar": [
+    {
+      "sira": 1,
+      "fiyatId": "bim_bim_umraniye_001_karton_bardak_100lu",
+      "masterProductId": "karton_bardak_100lu",
+      "urunAdi": "Karton Bardak 100'lü",
+      "marka": "Karton",
+      "kategori": "Kağıt Ürünleri",
+      "birim": "adet",
+      "marketId": "bim",
+      "market": "BİM",
+      "subeId": "bim_umraniye_001",
+      "fiyat": 49.9,
+      "eskiFiyat": 0,
+      "indirimli": false,
+      "stok": true,
+      "fiyatBaslangic": "2026-07-30",
+      "fiyatBitis": "",
+      "sonGuncelleme": "2026-07-30",
+      "kaynak": "resmi_market_sitesi",
+      "kaynakUrl": "https://www.bim.com.tr",
+      "kaynakNotu": "Test fiyat kaydı",
+      "dogrulamaDurumu": "dogrulandi",
+      "aktif": true
+    }
+  ]
+}
