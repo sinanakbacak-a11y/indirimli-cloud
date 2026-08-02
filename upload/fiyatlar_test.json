@@ -7,7 +7,7 @@
     {
       "sira": 1,
       "fiyatId": "bim_bim_umraniye_001_karton_bardak_100lu",
-      "masterProductId": "karton_bardak_100lu",
+     "masterProductId": "bardak_100lu",
       "urunAdi": "Karton Bardak 100'lü",
       "marka": "Karton",
       "kategori": "Kağıt Ürünleri",
