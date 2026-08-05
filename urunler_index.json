@@ -52,6 +52,11 @@
       "dosya": "urunler/yag.json",
       "aktif": true,
       "urunSayisi": 25
-    }
+    },
+    {
+  "kategoriId": "sut",
+  "dosya": "urunler/sut.json",
+  "aktif": true
+}
   ]
 }
