@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "sonGuncelleme": "2026-07-30",
+"version": 17,
+"sonGuncelleme": "2026-08-07",
   "anaDosya": "urunler.json",
   "kategoriDosyalariAktif": true,
   "kategoriler": [
@@ -101,4 +101,6 @@
   "dosya": "urunler/kisisel_bakim.json",
   "aktif": true,
   "urunSayisi": 30
+}
+      ]
 }
