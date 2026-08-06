@@ -66,4 +66,39 @@
   "dosya": "urunler/yogurt.json",
   "aktif": true,
   "urunSayisi": 12
+},
+    {
+  "kategoriId": "atistirmalik",
+  "ad": "Atıştırmalık",
+  "dosya": "urunler/atistirmalik.json",
+  "aktif": true,
+  "urunSayisi": 10
+},
+{
+  "kategoriId": "bakliyat",
+  "ad": "Bakliyat",
+  "dosya": "urunler/bakliyat.json",
+  "aktif": true,
+  "urunSayisi": 10
+},
+{
+  "kategoriId": "icecek",
+  "ad": "İçecek",
+  "dosya": "urunler/icecek.json",
+  "aktif": true,
+  "urunSayisi": 10
+},
+{
+  "kategoriId": "kahvaltilik",
+  "ad": "Kahvaltılık",
+  "dosya": "urunler/kahvaltilik.json",
+  "aktif": true,
+  "urunSayisi": 10
+},
+{
+  "kategoriId": "kisisel_bakim",
+  "ad": "Kişisel Bakım",
+  "dosya": "urunler/kisisel_bakim.json",
+  "aktif": true,
+  "urunSayisi": 30
 }
