@@ -53,15 +53,17 @@
       "aktif": true,
       "urunSayisi": 25
     },
-    {
+   {
   "kategoriId": "sut",
+  "ad": "Süt",
   "dosya": "urunler/sut.json",
-  "aktif": true
+  "aktif": true,
+  "urunSayisi": 20
 },
-    {
+{
   "kategoriId": "yogurt",
+  "ad": "Yoğurt",
   "dosya": "urunler/yogurt.json",
-  "aktif": true
-}
-  ]
+  "aktif": true,
+  "urunSayisi": 12
 }
