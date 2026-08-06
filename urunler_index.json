@@ -57,6 +57,11 @@
   "kategoriId": "sut",
   "dosya": "urunler/sut.json",
   "aktif": true
+},
+    {
+  "kategoriId": "yogurt",
+  "dosya": "urunler/yogurt.json",
+  "aktif": true
 }
   ]
 }
