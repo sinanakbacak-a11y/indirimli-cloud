@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T16:54:15",
+  "count": 6,
+  "markets": [
+    {
+      "marketId": "bim",
+      "ad": "BİM",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "marketId": "a101",
+      "ad": "A101",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "marketId": "sok",
+      "ad": "ŞOK",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "marketId": "migros",
+      "ad": "Migros",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "marketId": "carrefoursa",
+      "ad": "CarrefourSA",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "marketId": "hakmar",
+      "ad": "Hakmar",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    }
+  ]
+}

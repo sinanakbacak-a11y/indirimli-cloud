@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T16:54:15",
+  "count": 6,
+  "branches": [
+    {
+      "subeId": "bim_umraniye_001",
+      "marketId": "bim",
+      "ad": "BİM",
+      "sube": "Ümraniye Şubesi",
+      "adres": "Ümraniye / İstanbul",
+      "enlem": 41.07,
+      "boylam": 29.085,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "subeId": "a101_kazimkarabekir_001",
+      "marketId": "a101",
+      "ad": "A101",
+      "sube": "Kazım Karabekir Şubesi",
+      "adres": "Ümraniye / İstanbul",
+      "enlem": 41.0674,
+      "boylam": 29.0801,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "subeId": "sok_armaganevler_001",
+      "marketId": "sok",
+      "ad": "ŞOK",
+      "sube": "Armağanevler Şubesi",
+      "adres": "Ümraniye / İstanbul",
+      "enlem": 41.0685,
+      "boylam": 29.0815,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "subeId": "migros_umraniye_test_001",
+      "marketId": "migros",
+      "ad": "Migros",
+      "sube": "Ümraniye Test Şubesi",
+      "adres": "Ümraniye / İstanbul - Test verisi",
+      "enlem": 41.069,
+      "boylam": 29.083,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "subeId": "carrefoursa_umraniye_test_001",
+      "marketId": "carrefoursa",
+      "ad": "CarrefourSA",
+      "sube": "Ümraniye Test Şubesi",
+      "adres": "Ümraniye / İstanbul - Test verisi",
+      "enlem": 41.072,
+      "boylam": 29.09,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    },
+    {
+      "subeId": "hakmar_umraniye_test_001",
+      "marketId": "hakmar",
+      "ad": "Hakmar",
+      "sube": "Ümraniye Test Şubesi",
+      "adres": "Ümraniye / İstanbul - Test verisi",
+      "enlem": 41.071,
+      "boylam": 29.087,
+      "veriDurumu": "test",
+      "status": "candidate",
+      "source": "cloud_market_master"
+    }
+  ]
+}
