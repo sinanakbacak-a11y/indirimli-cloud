@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "exportVersion": 1,
+  "packageId": "unified_v1_20260810_005431",
+  "generatedAt": "2026-08-10T00:54:32",
+  "mode": "UNIFIED_LIVE",
+  "platform": {
+    "activePlatform": "unified_v1",
+    "previousPlatform": "legacy_v17",
+    "automaticFallback": false,
+    "legacyReadAllowed": false
+  },
+  "validation": {
+    "postCutoverPassed": true,
+    "testPricesInProduction": 0,
+    "unexpectedQuarantine": 0,
+    "productionRelationErrors": 0
+  },
+  "counts": {
+    "markets": 6,
+    "branches": 6,
+    "categories": 14,
+    "products": 649,
+    "prices": 155
+  },
+  "chunking": {
+    "productChunkSize": 1000,
+    "priceChunkSize": 2000,
+    "productChunkCount": 1,
+    "priceChunkCount": 1
+  },
+  "files": {
+    "markets": {
+      "path": "masters/markets.json",
+      "count": 6,
+      "sha256": "8523df9a30e7451cca546937fb9aba907e131213f8e9ae707f2ca5d8903135f6",
+      "bytes": 915
+    },
+    "branches": {
+      "path": "masters/branches.json",
+      "count": 6,
+      "sha256": "72573f290ec6b7af7e83ab67bc0b28154164c74802d26cbbfebd75f7411ca046",
+      "bytes": 2178
+    },
+    "categories": {
+      "path": "masters/categories.json",
+      "count": 14,
+      "sha256": "80cd63907ecb812adb48c50006c1669a56fdc76883368cf35aff2c242f1c95ea",
+      "bytes": 2026
+    }
+  },
+  "productChunks": [
+    {
+      "path": "products/products_0001.json",
+      "count": 649,
+      "sha256": "27b00f7017c7433a05ca0e6e67ed40ed189528bad2d3b8613a90f451f11663ab",
+      "bytes": 335164
+    }
+  ],
+  "priceChunks": [
+    {
+      "path": "prices/prices_0001.json",
+      "count": 155,
+      "sha256": "aba8b831cd320e7a253b2e5edcabdc9c87e95cdb3f7b833875ab629325306fa8",
+      "bytes": 79067
+    }
+  ],
+  "flutterPolicy": {
+    "shadowOnly": false,
+    "mayMutateAppState": true,
+    "mayCallSetState": true,
+    "mayWriteFavorites": false,
+    "mayWritePriceAlerts": false,
+    "mayActivateLegacy": false
+  }
+}
