@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T22:08:51",
+  "count": 14,
+  "categories": [
+    {
+      "kategoriId": "atistirmalik",
+      "ad": "Atıştırmalık",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "bakliyat",
+      "ad": "Bakliyat",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "icecek",
+      "ad": "İçecek",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "kagit_urunleri",
+      "ad": "Kağıt Ürünleri",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "kahvaltilik",
+      "ad": "Kahvaltılık",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "kisisel_bakim",
+      "ad": "Kişisel Bakım",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "konserve",
+      "ad": "Konserve",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "makarna",
+      "ad": "Makarna",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "peynir",
+      "ad": "Peynir",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "pirinc",
+      "ad": "Pirinç",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "sut",
+      "ad": "Süt",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "temizlik",
+      "ad": "Temizlik",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "yag",
+      "ad": "Yağ",
+      "status": "candidate",
+      "source": "legacy_import"
+    },
+    {
+      "kategoriId": "yogurt",
+      "ad": "yogurt",
+      "status": "candidate",
+      "source": "legacy_import"
+    }
+  ]
+}
