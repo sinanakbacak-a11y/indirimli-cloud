@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T22:10:04",
-  "packageId": "unified_v1_20260809_220851",
-  "manifestPath": "packages/unified_v1_20260809_220851/manifest.json",
-  "manifestSha256": "82d548b17024f207e6c06cf88413c0f75cb247484bb879d2fb18663350fb3bbd",
+  "updatedAt": "2026-08-09T23:59:31",
+  "packageId": "unified_v1_20260809_235931",
+  "manifestPath": "packages/unified_v1_20260809_235931/manifest.json",
+  "manifestSha256": "b7045edfe7ff72220335d919095b34af8119e790c9b7c9a399929bb7ede6ec70",
   "mode": "UNIFIED_LIVE",
   "active": true
 }
