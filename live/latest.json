@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-09T20:07:46",
+  "packageId": "unified_v1_20260809_200640",
+  "manifestPath": "packages/unified_v1_20260809_200640/manifest.json",
+  "manifestSha256": "276394cae4c373172ce9dc238bcfd9510df2812341c59abc54c8adbf3acd0dbf",
+  "mode": "UNIFIED_LIVE",
+  "active": true
+}
