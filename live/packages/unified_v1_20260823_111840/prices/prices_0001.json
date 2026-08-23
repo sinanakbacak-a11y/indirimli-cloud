@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-23T11:18:40",
+  "chunkIndex": 1,
+  "count": 3,
+  "prices": [
+    {
+      "productId": "bim_bardak_100lu",
+      "masterProductId": "bardak_100lu",
+      "market": "BİM",
+      "marketId": "bim",
+      "subeId": "bim_umraniye_001",
+      "fiyat": 49.9,
+      "fiyatBaslangic": "2026-07-30",
+      "fiyatBitis": "",
+      "kaynak": "resmi_market_sitesi",
+      "kaynakUrl": "https://www.bim.com.tr",
+      "veriDurumu": "production_verified",
+      "status": "candidate",
+      "source": "verified_production_import",
+      "priceResolver": "verified_production_price_resolver_v1"
+    },
+    {
+      "productId": "bim_aknaz_tam_yagli_taze_kasar_peyniri_500_g",
+      "masterProductId": "tam_yagli_taze_kasar_peyniri_500_g",
+      "market": "BİM",
+      "marketId": "bim",
+      "subeId": "bim_umraniye_001",
+      "fiyat": 199.0,
+      "fiyatBaslangic": "2026-08-10",
+      "fiyatBitis": "",
+      "kaynak": "resmi_market_sitesi",
+      "kaynakUrl": "https://www.bim.com.tr/?Bim_AktuelTarihKey=1592",
+      "veriDurumu": "production_verified",
+      "status": "candidate",
+      "source": "verified_production_import",
+      "priceResolver": "verified_production_price_resolver_v1"
+    },
+    {
+      "productId": "bim_aknaz_tam_yagli_suzme_peynir_500_g",
+      "masterProductId": "tam_yagli_suzme_peynir_500_g",
+      "market": "BİM",
+      "marketId": "bim",
+      "subeId": "bim_umraniye_001",
+      "fiyat": 105.0,
+      "fiyatBaslangic": "2026-08-10",
+      "fiyatBitis": "",
+      "kaynak": "resmi_market_sitesi",
+      "kaynakUrl": "https://www.bim.com.tr/Categories/100/aktuel-urunler.aspx?Bim_AktuelTarihKey=1592&top=1",
+      "veriDurumu": "production_verified",
+      "status": "candidate",
+      "source": "verified_production_import",
+      "priceResolver": "verified_production_price_resolver_v1"
+    }
+  ]
+}
