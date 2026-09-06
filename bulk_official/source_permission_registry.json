@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-11",
+  "defaultPolicy": "deny_unless_approved",
+  "markets": [
+    {
+      "marketId": "bim",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    },
+    {
+      "marketId": "a101",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    },
+    {
+      "marketId": "sok",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    },
+    {
+      "marketId": "migros",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    },
+    {
+      "marketId": "carrefoursa",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    },
+    {
+      "marketId": "hakmar",
+      "permissions": {
+        "prices": { "status": "pending", "allowed": false },
+        "images": { "status": "pending", "allowed": false },
+        "catalogs": { "status": "pending", "allowed": false },
+        "branches": { "status": "pending", "allowed": false },
+        "automatedCollection": { "status": "pending", "allowed": false }
+      }
+    }
+  ]
+}
