@@ -1,4 +1,4 @@
-import json
+﻿import json
 import sys
 import importlib.util
 from datetime import datetime
@@ -12,7 +12,7 @@ from adapter_contract_v1 import (
 # PATHS
 # ============================================================
 
-BASE = Path(__file__).resolve().parent
+BASE = Path(__file__).resolve().parents[2]
 
 BULK_ROOT = BASE / "bulk_official"
 
@@ -215,12 +215,12 @@ def discover_markets():
 # ADAPTER REGISTRY
 # ============================================================
 #
-# ŞİMDİLİK ADAPTER YOK.
+# ÅÄ°MDÄ°LÄ°K ADAPTER YOK.
 #
-# İzin geldikçe ilgili market adapterı
+# Ä°zin geldikÃ§e ilgili market adapterÄ±
 # buraya kaydedilecek.
 #
-# Collector'ın ana motoru değişmeyecek.
+# Collector'Ä±n ana motoru deÄŸiÅŸmeyecek.
 #
 # ============================================================
 ADAPTER_REGISTRY = {}
@@ -332,8 +332,8 @@ def permission_allowed_for_run(
     module_name,
 ):
     if SIMULATION_MODE:
-        # Sadece simülasyon testi.
-        # Gerçek permission registry değişmez.
+        # Sadece simÃ¼lasyon testi.
+        # GerÃ§ek permission registry deÄŸiÅŸmez.
         if market_id == "bim":
             return module_name in {
                 "automatedCollection",
@@ -360,7 +360,7 @@ def collect_market(
 ):
     result = empty_collection()
 
-    # Ana otomatik toplama vanası.
+    # Ana otomatik toplama vanasÄ±.
     if not permission_allowed_for_run(
     registry,
     market_id,
@@ -379,8 +379,8 @@ def collect_market(
         market_id
     )
 
-    # İzin var ama henüz adapter yoksa
-    # hiçbir ağ isteği yapma.
+    # Ä°zin var ama henÃ¼z adapter yoksa
+    # hiÃ§bir aÄŸ isteÄŸi yapma.
     if adapter is None:
         return {
             "status":
@@ -455,7 +455,7 @@ def collect_market(
                 result,
         }
 
-    # İkinci collector-side güvenlik filtresi.
+    # Ä°kinci collector-side gÃ¼venlik filtresi.
     if module_permissions[
         "prices"
     ]:

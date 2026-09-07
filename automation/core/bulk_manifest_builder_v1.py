@@ -5,8 +5,8 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parents[2]
 
 BULK_ROOT = BASE / "bulk_official"
-BATCH_FILE = BULK_ROOT / "outputs" / "bulk_official_batch.json"
-REPORT_FILE = BULK_ROOT / "reports" / "bulk_official_collector_report.json"
+BATCH_FILE = BULK_ROOT / "inputs" / "bulk_official_batch_001.json"
+REPORT_FILE = BULK_ROOT / "reports" / "bulk_official_collector_v1_report.json"
 MANIFEST_FILE = BULK_ROOT / "bulk_manifest.json"
 
 
@@ -130,3 +130,5 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
