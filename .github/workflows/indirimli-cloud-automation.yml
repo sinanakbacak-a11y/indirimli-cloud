@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 jobs:
-  automation-preflight:
+  automation-orchestrator:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,14 +21,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate automation runner
-        run: python -m py_compile automation/core/automation_runner_v1.py
+      - name: Validate orchestrator
+        run: python -m py_compile automation/core/automation_orchestrator_v1.py
 
-      - name: Run permission-gated automation
-        run: python automation/core/automation_runner_v1.py
-
-      - name: Validate collector
-        run: python -m py_compile automation/core/bulk_official_collector_v1.py
-
-      - name: Run permission-gated collector
-        run: python automation/core/bulk_official_collector_v1.py
+      - name: Run cloud orchestrator
+        run: python automation/core/automation_orchestrator_v1.py
