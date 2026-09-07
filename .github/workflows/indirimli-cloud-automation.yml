@@ -26,3 +26,9 @@ jobs:
 
       - name: Run permission-gated automation
         run: python automation/core/automation_runner_v1.py
+
+      - name: Validate collector
+        run: python -m py_compile automation/core/bulk_official_collector_v1.py
+
+      - name: Run permission-gated collector
+        run: python automation/core/bulk_official_collector_v1.py
