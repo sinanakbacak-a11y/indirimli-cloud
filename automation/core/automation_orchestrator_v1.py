@@ -18,6 +18,14 @@ STAGES = [
     ("bulk_manifest_builder_v1", BASE / "automation" / "core" / "bulk_manifest_builder_v1.py"),
     ("bulk_official_intake_v1", BASE / "automation" / "core" / "bulk_official_intake_v1.py"),
     ("unified_importer_v1_5", BASE / "automation" / "core" / "unified_importer_v1_5.py"),
+
+    ("region_registry_builder_v1", BASE / "automation" / "core" / "region_registry_builder_v1.py"),
+    ("branch_master_v2_builder", BASE / "automation" / "core" / "branch_master_v2_builder.py"),
+    ("branch_region_mapper_v1", BASE / "automation" / "core" / "branch_region_mapper_v1.py"),
+    ("regional_data_loader_driver_v1", BASE / "automation" / "core" / "regional_data_loader_driver_v1.py"),
+    ("regional_package_index_builder_v1", BASE / "automation" / "core" / "regional_package_index_builder_v1.py"),
+    ("regional_cache_sync_v1", BASE / "automation" / "core" / "regional_cache_sync_v1.py"),
+
     ("unified_pre_cutover_validator_v1", BASE / "automation" / "core" / "unified_pre_cutover_validator_v1.py"),
 ]
 
@@ -134,3 +142,4 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
