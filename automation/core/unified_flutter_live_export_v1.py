@@ -1,4 +1,4 @@
-﻿import json
+import json
 import hashlib
 import shutil
 import sys
@@ -44,10 +44,10 @@ def atomic_write_json(path, data):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix(path.suffix + ".tmp")
-    temp.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    with temp.open("w", encoding="utf-8", newline="\n") as f:
+        f.write(
+            json.dumps(data, ensure_ascii=False, indent=2)
+        )
     temp.replace(path)
 
 

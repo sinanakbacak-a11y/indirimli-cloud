@@ -51,18 +51,12 @@
   },
   "productChunks": [
     {
-      "path": "products/products_0001.json",
-      "count": 649,
-      "sha256": "9fb37f171d1e07b60da1690446b2c4155d1504f9b1aae9c282f1559159f56056",
-      "bytes": 335164
+      "path": "products/products_0001.json",`n      "count": 649,`n      "sha256": "8799e2ea9fd021652f665a5ee2ae35bf63cf7b872bff270e7f30ad4f2777d60f",`n      "bytes": 324124
     }
   ],
   "priceChunks": [
     {
-      "path": "prices/prices_0001.json",
-      "count": 3,
-      "sha256": "9bd327ec24c9e5b2be3833f70c9bd1917ca343aed192fb73d8fd40290487b0a2",
-      "bytes": 1928
+      "path": "prices/prices_0001.json",`n      "count": 3,`n      "sha256": "ac314cbba9ed4101dfd9ac48a6b8961615465d99a8b57309b9c928fbd48a23c8",`n      "bytes": 1873
     }
   ],
   "flutterPolicy": {
