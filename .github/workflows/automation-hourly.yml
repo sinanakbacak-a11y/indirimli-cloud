@@ -1,0 +1,23 @@
+name: Indirimli Cloud Hourly Automation
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  automation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Indirimli Cloud Orchestrator
+        run: |
+          python automation/core/automation_orchestrator_v1.py
