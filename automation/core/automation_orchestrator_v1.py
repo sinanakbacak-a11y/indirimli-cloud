@@ -128,7 +128,7 @@ def main():
     if not permission_gate():
         print("\nORCHESTRATOR V1 : BLOCKED")
         print("No collector or later stage executed.")
-        return 1
+        return 2
 
     for name, path in STAGES:
         if not run_stage(name, path):

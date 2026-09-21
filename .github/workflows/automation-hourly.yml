@@ -35,7 +35,7 @@ jobs:
             exit 0
           fi
 
-          if [ "$rc" -eq 1 ]; then
+          if [ "$rc" -eq 2 ]; then
             echo "ORCHESTRATOR RESULT : BLOCKED/EXPECTED"
             echo "Workflow remains green because permission gate is fail-closed."
             exit 0
