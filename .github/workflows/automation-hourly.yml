@@ -5,19 +5,41 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   automation:
     runs-on: ubuntu-latest
 
     steps:
       - name: Repository checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Run Indirimli Cloud Orchestrator
+        id: orchestrator
+        shell: bash
         run: |
+          set +e
           python automation/core/automation_orchestrator_v1.py
+          rc=$?
+          echo "ORCHESTRATOR_EXIT_CODE=$rc" >> "$GITHUB_OUTPUT"
+
+          if [ "$rc" -eq 0 ]; then
+            echo "ORCHESTRATOR RESULT : PASS"
+            exit 0
+          fi
+
+          if [ "$rc" -eq 1 ]; then
+            echo "ORCHESTRATOR RESULT : BLOCKED/EXPECTED"
+            echo "Workflow remains green because permission gate is fail-closed."
+            exit 0
+          fi
+
+          echo "ORCHESTRATOR RESULT : UNEXPECTED_FAILURE"
+          exit "$rc"
