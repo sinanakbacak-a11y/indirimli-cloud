@@ -1,0 +1,13 @@
+﻿{
+    "schemaVersion":  1,
+    "backupVersion":  1,
+    "snapshotId":  "snapshot_20260924_221453",
+    "createdAt":  "2026-09-24T22:14:53",
+    "source":  "live/latest.json",
+    "packageId":  "unified_v1_20260823_111840",
+    "manifestPath":  "packages/unified_v1_20260823_111840/manifest.json",
+    "manifestSha256":  "525AA8B72F4204B4D4899B486F1E07E0C5410C903AD690E2A416EB9FD0A5B090",
+    "mode":  "UNIFIED_LIVE",
+    "active":  true,
+    "restoreEligible":  true
+}
