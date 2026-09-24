@@ -56,6 +56,23 @@ def main():
         print("Reason    : live pointer eksik alan iceriyor.")
         return 2
 
+    existing_snapshots = sorted(SNAPSHOT_ROOT.glob("snapshot_*.json"))
+
+    for existing_snapshot_path in reversed(existing_snapshots):
+        try:
+            existing_snapshot = read_json(existing_snapshot_path)
+        except Exception:
+            continue
+
+        if (
+            existing_snapshot.get("packageId") == package_id
+            and existing_snapshot.get("manifestSha256") == manifest_sha256
+            and existing_snapshot.get("restoreEligible") is True
+        ):
+            print("BACKUP V1 : ALREADY BACKED UP")
+            print(f"Existing Snapshot : {existing_snapshot_path}")
+            return 0
+
     snapshot_id = "snapshot_" + datetime.now().strftime("%Y%m%d_%H%M%S")
     snapshot_path = SNAPSHOT_ROOT / f"{snapshot_id}.json"
 
