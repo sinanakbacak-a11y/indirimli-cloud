@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
@@ -36,61 +36,218 @@
 <h1>İndirimli Gizlilik Politikası</h1>
 
 <p>
-İndirimli, kullanıcıların market ürün ve fiyat bilgilerini
-karşılaştırabilmesine yardımcı olmak amacıyla geliştirilmiştir.
+İndirimli, kullanıcıların market ürünleri, fiyatları ve katalog bilgilerini
+karşılaştırabilmesine ve kendilerine yakın marketleri görüntüleyebilmesine
+yardımcı olmak amacıyla geliştirilmiştir.
 </p>
 
-<h2>Konum İzni</h2>
+<h2>1. Veri Sorumlusu</h2>
 
 <p>
-Uygulama, kullanıcıya yakın marketleri ve yaklaşık mesafeleri
-gösterebilmek için cihaz konumuna erişebilir. Konum bilgisi yalnızca
-uygulamanın ilgili özelliklerini çalıştırmak amacıyla kullanılır.
+İndirimli uygulaması bakımından veri sorumlusu:
 </p>
 
-<h2>Yerel Veriler</h2>
-
 <p>
-Favori ürünler, alışveriş listesi, favori şubeler ve fiyat alarmları
-cihaz üzerinde yerel olarak saklanabilir.
+<strong>Sinan Akbacak</strong><br>
+İletişim: <strong>destek.indirimli@gmail.com</strong>
 </p>
 
-<h2>İnternet Erişimi</h2>
-
 <p>
-Uygulama; ürün, fiyat, market, katalog ve benzeri güncel verileri
-alabilmek ve kullanıcı tarafından seçilen resmi web sayfalarını
-açabilmek için internet bağlantısını kullanır.
+Uygulamanın işletilmesi ve veri işleme faaliyetleriyle ilgili sorularınız
+için yukarıdaki iletişim adresini kullanabilirsiniz.
 </p>
 
-<h2>Fiyat ve Market Bilgileri</h2>
+<h2>2. Konum Bilgisi</h2>
 
 <p>
-Fiyatlar, stok durumu, çalışma saatleri ve diğer bilgiler kaynağa,
-şubeye ve tarihe göre değişebilir. Uygulama bu bilgileri tarafsız
-biçimde sunmayı amaçlar.
+İndirimli, kullanıcıya yakın marketleri göstermek ve marketlerin kullanıcıya
+olan mesafelerini hesaplamak amacıyla cihazın konum bilgisini kullanabilir.
 </p>
 
-<h2>Kişisel Veri</h2>
-
 <p>
-İndirimli'nin mevcut sürümünde kullanıcı hesabı oluşturma, ödeme
-bilgisi toplama veya kullanıcıdan doğrudan kimlik bilgisi talep etme
-özelliği bulunmamaktadır.
+Konum özelliği, cihazdaki konum izni kullanıcı tarafından verildiğinde çalışır.
+Uygulamanın mevcut yapısında cihazdan alınan enlem ve boylam bilgileri,
+yakındaki marketleri ve mesafeleri hesaplamak amacıyla uygulama içerisinde
+kullanılmaktadır.
 </p>
 
-<h2>Politika Güncellemeleri</h2>
-
 <p>
-Bu gizlilik politikası, uygulamanın özellikleri veya veri kullanım
-yöntemleri değiştiğinde güncellenebilir.
+Mevcut uygulama kodunda bu koordinatların İndirimli'nin kendi sunucusuna
+gönderildiğine veya kalıcı olarak kaydedildiğine ilişkin bir işlem
+bulunmamaktadır.
 </p>
 
-<h2>İletişim</h2>
+<p>
+Konum izni verilmemesi halinde kullanıcı uygulamanın diğer özelliklerini
+kullanmaya devam edebilir; ancak yakınlık ve mesafe özellikleri sınırlı
+çalışabilir.
+</p>
+
+<h2>3. Bildirimler ve Firebase Cloud Messaging</h2>
 
 <p>
-Gizlilik politikası, veri kullanımı, görüş, öneri veya veri düzeltme
-talepleri için:
+İndirimli, kullanıcıya uygulama ile ilgili bildirimleri iletebilmek amacıyla
+<strong>Firebase Cloud Messaging (FCM)</strong> hizmetini kullanmaktadır.
+</p>
+
+<p>
+Bildirim özelliğinin kullanılabilmesi için Android işletim sistemi tarafından
+gerekli bildirim izni istenebilir.
+</p>
+
+<p>
+FCM altyapısı kapsamında Firebase tarafından uygulama sürümü, Firebase
+kullanıcı aracısı ve uygulama kurulumu ile ilişkili Firebase Installation ID
+gibi teknik bilgiler işlenebilir.
+</p>
+
+<p>
+İndirimli'nin mevcut uygulama kodunda FCM cihaz tokenının İndirimli'nin
+kendi sunucusuna gönderilerek kullanıcı hesabıyla eşleştirildiği bir işlem
+bulunmamaktadır.
+</p>
+
+<p>
+Firebase tarafından gerçekleştirilen veri işleme faaliyetleri, Firebase'in
+kendi hizmet şartları ve gizlilik uygulamaları kapsamında gerçekleşebilir.
+</p>
+
+<h2>4. Cihazda Yerel Olarak Saklanan Veriler</h2>
+
+<p>
+Uygulamanın bazı özelliklerinin çalışması için aşağıdaki bilgiler cihaz
+üzerinde yerel olarak saklanabilir:
+</p>
+
+<ul>
+  <li>Favori ürünler,</li>
+  <li>Alışveriş listeleri,</li>
+  <li>Favori market şubeleri,</li>
+  <li>Fiyat alarmı tercihleri,</li>
+  <li>Görüntülenmiş veya okunmuş bildirim kayıtları,</li>
+  <li>Ürün verilerinin uygulama sürekliliği amacıyla kullanılan yerel yedekleri.</li>
+</ul>
+
+<p>
+Bu bilgiler uygulamanın işlevlerini sağlamak amacıyla cihaz üzerinde tutulur.
+</p>
+
+<h2>5. İnternet ve Uygulama Verileri</h2>
+
+<p>
+İndirimli; ürün, fiyat, market, katalog ve benzeri uygulama verilerini
+internet bağlantısı üzerinden alabilir.
+</p>
+
+<p>
+Uygulama ayrıca kullanıcı tarafından seçilen resmi web sayfalarını açmak
+için internet bağlantısını kullanabilir.
+</p>
+
+<h2>6. Kullanıcı Hesabı ve Doğrudan Kimlik Bilgileri</h2>
+
+<p>
+İndirimli'nin mevcut sürümünde kullanıcı hesabı oluşturma, kullanıcı adı ve
+parola ile giriş, ödeme bilgisi toplama veya kullanıcıdan doğrudan kimlik
+bilgisi talep etme özellikleri bulunmamaktadır.
+</p>
+
+<p>
+Kullanıcı tarafından destek veya iletişim amacıyla e-posta gönderilmesi
+halinde, gönderilen iletişim içeriğinde yer alan kişisel bilgiler yalnızca
+ilgili iletişimin değerlendirilmesi ve cevaplanması amacıyla işlenebilir.
+</p>
+
+<h2>7. Kişisel Verilerin İşlenme Amaçları ve Hukuki Sebep</h2>
+
+<p>
+Kişisel veriler; uygulamanın ilgili özelliklerinin çalıştırılması, kullanıcı
+taleplerinin karşılanması, uygulamanın güvenli ve düzgün şekilde çalıştırılması
+ve bildirim hizmetlerinin sağlanması gibi belirli ve meşru amaçlarla işlenebilir.
+</p>
+
+<p>
+Kişisel verilerin hangi hukuki sebebe dayanılarak işleneceği, ilgili veri
+işleme faaliyetinin niteliğine ve somut koşullara göre 6698 sayılı Kişisel
+Verilerin Korunması Kanunu kapsamında değerlendirilir.
+</p>
+
+<h2>8. Verilerin Aktarılması</h2>
+
+<p>
+İndirimli, kullanıcıların kişisel verilerini reklam amacıyla üçüncü kişilere
+satmayı amaçlamamaktadır.
+</p>
+
+<p>
+Bildirim hizmetinin sağlanması kapsamında Firebase Cloud Messaging gibi
+teknik hizmet sağlayıcılarından yararlanılmaktadır.
+</p>
+
+<p>
+Yasal olarak gerekli olması halinde yetkili kamu kurum ve kuruluşlarına
+ilgili mevzuat çerçevesinde bilgi aktarımı yapılabilir.
+</p>
+
+<h2>9. Veri Güvenliği</h2>
+
+<p>
+İndirimli, kişisel verilerin ve uygulama verilerinin yetkisiz erişim,
+değiştirme veya kayba karşı korunması amacıyla uygun teknik ve idari
+tedbirleri uygulamayı hedefler.
+</p>
+
+<h2>10. Verilerin Saklanması ve Silinmesi</h2>
+
+<p>
+Cihaz üzerinde tutulan uygulama tercihleri, kullanıcı tarafından uygulamanın
+ilgili özellikleri kullanılarak değiştirilebilir veya cihazdaki uygulama
+verileri temizlenerek kaldırılabilir.
+</p>
+
+<p>
+Sunucu veya üçüncü taraf hizmetler tarafından tutulan veriler bakımından
+ilgili hizmet sağlayıcının kendi saklama ve silme kuralları uygulanabilir.
+</p>
+
+<h2>11. İlgili Kişinin Hakları</h2>
+
+<p>
+6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, uygulanabilir
+olduğu ölçüde ilgili kişiler; kişisel verilerinin işlenip işlenmediğini
+öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını ve
+amacına uygun kullanılıp kullanılmadığını öğrenme, aktarıldığı üçüncü
+kişileri bilme, eksik veya yanlış işlenmiş olması hâlinde düzeltilmesini
+isteme ve Kanunda öngörülen diğer haklarını kullanma hakkına sahiptir.
+</p>
+
+<p>
+Taleplerinizi <strong>destek.indirimli@gmail.com</strong> adresine
+iletebilirsiniz.
+</p>
+
+<p>
+Talepler, 6698 sayılı Kanun ve ilgili ikincil mevzuatta öngörülen usul ve
+esaslar çerçevesinde değerlendirilir.
+</p>
+
+<h2>12. Politika Güncellemeleri</h2>
+
+<p>
+İndirimli'nin özellikleri, veri işleme yöntemleri veya kullanılan teknik
+hizmetler değiştiğinde bu Gizlilik Politikası güncellenebilir.
+</p>
+
+<p>
+Güncel metin, uygulamadaki <strong>Gizlilik Politikası</strong> bağlantısı
+üzerinden yayımlanır.
+</p>
+
+<h2>13. İletişim</h2>
+
+<p>
+Gizlilik politikası, kişisel veriler, veri kullanımı, veri düzeltme talepleri,
+görüş ve öneriler için:
 </p>
 
 <p>
@@ -98,7 +255,7 @@ talepleri için:
 </p>
 
 <div class="footer">
-  Son güncelleme: 29 Ağustos 2026
+  Son güncelleme: 25 Eylül 2026
 </div>
 
 </body>
